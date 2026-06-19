@@ -13,7 +13,6 @@ src="https://algorithmman.com/wp-content/uploads/2024/07/Future-Trends-in-Object
 <!-- Contact Section start -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudharsan336)</br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sudharsan.r03032006@gmail.com)</br>
-[![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/classy_sudhan)</br>
 <!-- Contact Section end -->
 
 <!-- Resume Section start -->
