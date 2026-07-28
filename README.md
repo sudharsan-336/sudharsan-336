@@ -35,10 +35,11 @@ src="https://algorithmman.com/wp-content/uploads/2024/07/Future-Trends-in-Object
 <!-- Tools and IDEs start -->
 ### 🛠️ Tools and IDEs
 <p align="left">
-  <img height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/git.png"/>
-  <img height="50" src="https://img.icons8.com/officel/480/java-eclipse.png"/>
-  <img height="50" src="https://img.icons8.com/fluency/48/intellij-idea.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
+  <img height="50" src="https://img.icons8.com/color/48/git.png" alt=Git/>
+  <img height="50" src="https://img.icons8.com/officel/480/java-eclipse.png" alt=Eclipse/>
+  <img height="50" src="https://img.icons8.com/fluency/48/intellij-idea.png" alt="Intellij"/>
+  <img height="50" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" alt="Cursor AI"/>
 </p>
 <!-- Tools and IDEs end -->
 
