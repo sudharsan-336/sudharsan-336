@@ -3,12 +3,11 @@
 ###  🎓 Computer Science and Business Systems Engineering Student
 
 <!-- Right-side Animated GIF start -->
-<img align="right" width="380"
-src="https://algorithmman.com/wp-content/uploads/2024/07/Future-Trends-in-Object-Oriented-Programming.gif">
+<img align="right" width="380" src="https://algorithmman.com/uploads/2024/07/Future-Trends-in-Object-Oriented-Programming.gif" alt="Future Trends in Object-Oriented Programming" alt="GIF"/>
 <!-- Right-side Animated GIF end -->
 
 🌐 Here's my [Portfolio](https://portfoliowebsiteweb.vercel.app/)<br>
-🎯 Currently Learning **DSA in Java**  
+🎯 Currently Learning **Java Full-Stack Development**  
 ✉️ How to reach me:
 
 <!-- Contact Section start -->
@@ -21,25 +20,19 @@ src="https://algorithmman.com/wp-content/uploads/2024/07/Future-Trends-in-Object
 [![View Resume](https://img.shields.io/badge/View_Resume-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/sudharsan-336/sudharsan-336/blob/main/Sudharsan-Resume.pdf)[![Download Resume](https://img.shields.io/badge/Download_Resume-green?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://raw.githubusercontent.com/sudharsan-336/sudharsan-336/main/Sudharsan-Resume.pdf)
 <!-- Resume Section end -->
 
-<!-- Languages and Technologies start -->
-### 🖥️ Languages and Technologies
+<!-- I code in start -->
+### 💻 Technologies I Know
 <p align="left">
-  <img height="50" src="https://img.icons8.com/color/48/html-5.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/css3.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/javascript.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/mysql-logo.png"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,mysql,postgres" alt="Skills"/>
 </p>
-<!-- Languages and Technologies end -->
+<!-- I Code in end -->
 
 <!-- Tools and IDEs start -->
-### 🛠️ Tools and IDEs
+### 🛠️ Tools and IDEs I Use
 <p align="left">
-  <img height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
-  <img height="50" src="https://img.icons8.com/color/48/git.png" alt=Git/>
-  <img height="50" src="https://img.icons8.com/officel/480/java-eclipse.png" alt=Eclipse/>
-  <img height="50" src="https://img.icons8.com/fluency/48/intellij-idea.png" alt="Intellij"/>
-  <img height="50" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" alt="Cursor AI"/>
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,idea" alt="Tools & IDEs"/>
+  <img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="48" height="48" alt="Cursor" style="background-color:#1f2430; border-radius:12px; padding:8px; box-sizing:border-box;"/>
+  <img src="https://antigravity.google/assets/image/antigravity-logo.png" width="48" height="48" alt="Google Antigravity" style="background-color:#1f2430; border-radius:12px; padding:5px; box-sizing:border-box;"/>
 </p>
 <!-- Tools and IDEs end -->
 
@@ -48,30 +41,20 @@ src="https://algorithmman.com/wp-content/uploads/2024/07/Future-Trends-in-Object
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sudharsan-336&theme=tokyonight&no-frame=true&margin-w=4)
 <!-- GitHub Trophies end -->
 
-<!-- LeetCode Stats start -->
-### 💻 LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Sudharsan-336?ext=contest&theme=dark)](https://leetcode.com/u/Sudharsan-336/)
-<!-- LeetCode Stats end -->
-
 <!-- Most Used Languages start -->
 ### 📊 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudharsan-336&layout=compact&theme=dark)
-<!-- Most Used Languages start -->
+<!-- Most Used Languages end -->
 
 <!-- GitHub Stats start -->
-### 📈 GitHub Stats
-[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=sudharsan-336&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage)](https://github.com/sudharsan-336)
-
+### 📈 LeetCode and GitHub stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Sudharsan-336?ext=contest&theme=dark&border=1&radius=4.5)](https://leetcode.com/u/Sudharsan-336/)
+[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=sudharsan-336&show_icons=true&theme=dark&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage)](https://github.com/sudharsan-336)
 <!-- GitHub Stats end -->
-
-<!-- Github Activity Graph start -->
-### 📈 GitHub Activity Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sudharsan-336&bg_color=000000&color=ffffff&line=00ff11&point=ffffff&area=true&hide_border=true)](https://github.com/sudharsan-336)
-<!-- Github Activity Graph end -->
 
 <!-- Wave GIF start -->
 <div align="center">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer" alt="Wave GIF">
 </div>
 <!-- Wave GIF end -->
 
