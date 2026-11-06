@@ -36,14 +36,9 @@
 </p>
 <!-- Tools and IDEs end -->
 
-<!-- GitHub Trophies start -->
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sudharsan-336&theme=tokyonight&no-frame=true&margin-w=4)
-<!-- GitHub Trophies end -->
-
 <!-- Most Used Languages start -->
 ### 📊 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudharsan-336&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sudharsan-336&layout=compact&langs_count=7&theme=dark&hide_border=true)
 <!-- Most Used Languages end -->
 
 <!-- GitHub Stats start -->
